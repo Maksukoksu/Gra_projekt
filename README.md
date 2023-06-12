@@ -12,8 +12,6 @@
 
 <link  rel="stylesheet"  href="style_dokumentacja.css">
 
-<title>Dokumentacja - projekt WdP - gra Crazy Driver</title>
-
 </head>
 
 <body>
