@@ -316,8 +316,7 @@ int main() {
 
                         //zapisywanie najlepszego wyniku do pliku .txt
                         FILE* file = fopen("crazy_driver_highscore.txt", "r");
-                        if(file == 0)
-                            printf("Nie udalo sie otworzyc pliku \n");
+
 
                         int bufor;
                         fscanf(file, "%d", &bufor);
